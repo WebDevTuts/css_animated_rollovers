@@ -1,0 +1,3 @@
+### Lynda - CSS Animated Rollovers
+
+  Learn to create animated rollovers with CSS3. Animated rollovers are an easy way to enhance the user experience of your website, without adding more markup to your page, or working with JavaScript. This course shows how to change the color and typography of your rollovers using different CSS properties, add and animate pseudo-elements, and animate clip properties of absolute-positioned elements.
